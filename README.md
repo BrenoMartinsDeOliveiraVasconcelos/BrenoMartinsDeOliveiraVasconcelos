@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 # Minhas linguagens:
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=BrenoMartinsDeOliveiraVasconcelos&layout=pie&langs_count=20&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=BrenoMartinsDeOliveiraVasconcelos&layout=pie&langs_count=20&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=BrenoMartinsDeOliveiraVasconcelos&layout=pie&langs_count=20&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=BrenoMartinsDeOliveiraVasconcelos&layout=pie&langs_count=20&theme=transparent)
 
 Sem Python:
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=BrenoMartinsDeOliveiraVasconcelos&layout=pie&langs_count=20&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=BrenoMartinsDeOliveiraVasconcelos&layout=pie&langs_count=20&hide=python&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=BrenoMartinsDeOliveiraVasconcelos&layout=pie&langs_count=20&theme=transparent&hide=python)](https://github-stats-extended.vercel.app/api/top-langs?username=BrenoMartinsDeOliveiraVasconcelos&layout=pie&langs_count=20&theme=transparent&hide=python)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoMartinsDeOliveiraVasconcelos)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BrenoMartinsDeOliveiraVasconcelos&rank_icon=percentile&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=BrenoMartinsDeOliveiraVasconcelos&rank_icon=percentile&include_all_commits=true&theme=transparent)
